@@ -1,7 +1,8 @@
 # hugo-clemente/tap
 
 ```sh
-brew install --cask hugo-clemente/tap/deft
+brew tap hugo-clemente/tap
+brew install --cask deft
 ```
 
 - [Deft](https://github.com/hugo-clemente/deft): keyboard overlay app launcher for macOS
