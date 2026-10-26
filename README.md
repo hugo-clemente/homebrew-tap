@@ -2,6 +2,7 @@
 
 ```sh
 brew tap hugo-clemente/tap
+brew trust --cask hugo-clemente/tap/deft
 brew install --cask deft
 ```
 
