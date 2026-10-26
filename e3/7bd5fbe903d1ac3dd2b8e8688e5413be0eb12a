@@ -1,0 +1,14 @@
+README.md
+  h_12db0114204fd8 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e37bd5fbe903d1ac3dd2b8e8688e5413be0eb12a",
+  "prompts": {},
+  "humans": {
+    "h_12db0114204fd8": {
+      "author": "Hugo CLEMENTE <20091960+hugo-clemente@users.noreply.github.com>"
+    }
+  }
+}
